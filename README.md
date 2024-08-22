@@ -1,0 +1,1 @@
+This repository is a collection of my personal work and experiments in machine learning and deep learning. The aim is to explore and implement various ML/DL algorithms and techniques, ranging from simple models to more advanced deep learning architectures.
